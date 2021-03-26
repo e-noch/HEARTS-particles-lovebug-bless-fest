@@ -150,7 +150,7 @@ particlesJS('particles-js8',
         "value": "#ffffff"
       },
       "shape": {
-        "type": "heart",
+        "type": "image",
         "stroke": {
           "width": 0,
           "color": "#000000"
