@@ -36,7 +36,7 @@ particlesJS('particles-js9',
           "nb_sides": 5
         },
         "image": {
-          "src": "#",
+          "src": "https://raw.githubusercontent.com/e-noch/HEARTS-particles-lovebug-bless-fest/main/images/butterfly-particles%402x.png",
           "width": 100,
           "height": 100
         }
@@ -159,7 +159,7 @@ particlesJS('particles-js8',
           "nb_sides": 5
         },
         "image": {
-          "src": "#",
+          "src": "https://raw.githubusercontent.com/e-noch/HEARTS-particles-lovebug-bless-fest/main/images/butterfly-particles%402x.png",
           "width": 100,
           "height": 100
         }
@@ -280,7 +280,7 @@ particlesJS('particles-js7',
           "nb_sides": 5
         },
         "image": {
-          "src": "#",
+          "src": "https://raw.githubusercontent.com/e-noch/HEARTS-particles-lovebug-bless-fest/main/images/butterfly-particles%402x.png",
           "width": 80,
           "height": 60
         }
@@ -401,7 +401,7 @@ particlesJS('particles-js6',
           "nb_sides": 5
         },
         "image": {
-          "src": "#",
+          "src": "https://raw.githubusercontent.com/e-noch/HEARTS-particles-lovebug-bless-fest/main/images/butterfly-particles%402x.png",
           "width": 80,
           "height": 60
         }
@@ -522,7 +522,7 @@ particlesJS('particles-js5',
           "nb_sides": 5
         },
         "image": {
-          "src": "#",
+          "src": "https://raw.githubusercontent.com/e-noch/HEARTS-particles-lovebug-bless-fest/main/images/butterfly-particles%402x.png",
           "width": 100,
           "height": 80
         }
@@ -644,7 +644,7 @@ particlesJS('particles-js4',
           "nb_sides": 5
         },
         "image": {
-          "src": "#",
+          "src": "https://raw.githubusercontent.com/e-noch/HEARTS-particles-lovebug-bless-fest/main/images/butterfly-particles%402x.png",
           "width": 100,
           "height": 100
         }
@@ -766,7 +766,7 @@ particlesJS('particles-js3',
           "nb_sides": 5
         },
         "image": {
-          "src": "#",
+          "src": "https://raw.githubusercontent.com/e-noch/HEARTS-particles-lovebug-bless-fest/main/images/butterfly-particles%402x.png",
           "width": 100,
           "height": 100
         }
@@ -888,7 +888,7 @@ particlesJS('particles-js2',
           "nb_sides": 5
         },
         "image": {
-          "src": "#",
+          "src": "https://raw.githubusercontent.com/e-noch/HEARTS-particles-lovebug-bless-fest/main/images/butterfly-particles%402x.png",
           "width": 100,
           "height": 100
         }
