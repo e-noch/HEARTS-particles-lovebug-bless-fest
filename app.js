@@ -17,7 +17,7 @@ particlesJS('particles-js9',
   {
     "particles": {
       "number": {
-        "value": 1,
+        "value": 3,
         "density": {
           "enable": true,
           "value_area": 800
@@ -36,7 +36,7 @@ particlesJS('particles-js9',
           "nb_sides": 5
         },
         "image": {
-          "src": "https://raw.githubusercontent.com/e-noch/HEARTS-particles-lovebug-bless-fest/main/images/butterfly-particles%402x.png",
+          "src": "#",
           "width": 100,
           "height": 100
         }
@@ -140,7 +140,7 @@ particlesJS('particles-js8',
   {
     "particles": {
       "number": {
-        "value": 1,
+        "value": 3,
         "density": {
           "enable": true,
           "value_area": 800
@@ -159,7 +159,7 @@ particlesJS('particles-js8',
           "nb_sides": 5
         },
         "image": {
-          "src": "https://raw.githubusercontent.com/e-noch/HEARTS-particles-lovebug-bless-fest/main/images/ladybug-particle%402x.png",
+          "src": "#",
           "width": 100,
           "height": 100
         }
@@ -991,7 +991,7 @@ particlesJS('particles-js1',
   {
     "particles": {
       "number": {
-        "value": 2,
+        "value": 1,
         "density": {
           "enable": true,
           "value_area": 800
@@ -1010,9 +1010,9 @@ particlesJS('particles-js1',
           "nb_sides": 5
         },
         "image": {
-          "src": "#",
+          "src": "https://raw.githubusercontent.com/e-noch/HEARTS-particles-lovebug-bless-fest/main/images/ladybug-particle%402x.png",
           "width": 100,
-          "height": 40
+          "height": 100
         }
       },
       "opacity": {
@@ -1123,7 +1123,7 @@ particlesJS('particlesJS',
   {
     "particles": {
       "number": {
-        "value": 20,
+        "value": 1,
         "density": {
           "enable": true,
           "value_area": 800
@@ -1142,7 +1142,7 @@ particlesJS('particlesJS',
           "nb_sides": 5
         },
         "image": {
-          "src": "#",
+          "src": "https://raw.githubusercontent.com/e-noch/HEARTS-particles-lovebug-bless-fest/main/images/butterfly-particles%402x.png",
           "width": 100,
           "height": 100
         }
