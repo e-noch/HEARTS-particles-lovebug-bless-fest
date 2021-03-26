@@ -17,7 +17,7 @@ particlesJS('particles-js9',
   {
     "particles": {
       "number": {
-        "value": 3,
+        "value": 1,
         "density": {
           "enable": true,
           "value_area": 800
@@ -27,7 +27,7 @@ particlesJS('particles-js9',
         "value": "#ffffff"
       },
       "shape": {
-        "type": "heart",
+        "type": "image",
         "stroke": {
           "width": 0,
           "color": "#000000"
@@ -140,7 +140,7 @@ particlesJS('particles-js8',
   {
     "particles": {
       "number": {
-        "value": 3,
+        "value": 1,
         "density": {
           "enable": true,
           "value_area": 800
