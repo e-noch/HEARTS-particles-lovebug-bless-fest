@@ -17,7 +17,7 @@ particlesJS('particles-js9',
   {
     "particles": {
       "number": {
-        "value": 2,
+        "value": 1,
         "density": {
           "enable": true,
           "value_area": 800
@@ -36,7 +36,7 @@ particlesJS('particles-js9',
           "nb_sides": 5
         },
         "image": {
-          "src": "https://raw.githubusercontent.com/e-noch/HEARTS-particles/main/images/black-heart-beat%402x.png",
+          "src": "https://raw.githubusercontent.com/e-noch/HEARTS-particles-lovebug-bless-fest/main/images/butterfly-particles%402x.png",
           "width": 80,
           "height": 60
         }
@@ -140,7 +140,7 @@ particlesJS('particles-js8',
   {
     "particles": {
       "number": {
-        "value": 2,
+        "value": 1,
         "density": {
           "enable": true,
           "value_area": 800
@@ -159,7 +159,7 @@ particlesJS('particles-js8',
           "nb_sides": 5
         },
         "image": {
-          "src": "https://raw.githubusercontent.com/e-noch/HEARTS-particles/main/images/blue-heart-beat%402x.png",
+          "src": "https://raw.githubusercontent.com/e-noch/HEARTS-particles-lovebug-bless-fest/main/images/ladybug-particle%402x.png",
           "width": 80,
           "height": 60
         }
@@ -280,7 +280,7 @@ particlesJS('particles-js7',
           "nb_sides": 5
         },
         "image": {
-          "src": "https://raw.githubusercontent.com/e-noch/HEARTS-particles/main/images/pink-heart-beat%402x.png",
+          "src": "#",
           "width": 80,
           "height": 60
         }
@@ -401,7 +401,7 @@ particlesJS('particles-js6',
           "nb_sides": 5
         },
         "image": {
-          "src": "https://raw.githubusercontent.com/e-noch/HEARTS-particles/main/images/purple-heart-beat%402x.png",
+          "src": "#",
           "width": 80,
           "height": 60
         }
@@ -522,7 +522,7 @@ particlesJS('particles-js5',
           "nb_sides": 5
         },
         "image": {
-          "src": "https://raw.githubusercontent.com/e-noch/HEARTS-particles/main/images/red-heart-beat%402x.png",
+          "src": "#",
           "width": 100,
           "height": 80
         }
@@ -644,7 +644,7 @@ particlesJS('particles-js4',
           "nb_sides": 5
         },
         "image": {
-          "src": "https://raw.githubusercontent.com/e-noch/HEARTS-particles/main/images/turquoise-heart-beat%402x.png",
+          "src": "#",
           "width": 100,
           "height": 100
         }
@@ -766,7 +766,7 @@ particlesJS('particles-js3',
           "nb_sides": 5
         },
         "image": {
-          "src": "https://raw.githubusercontent.com/e-noch/HEARTS-particles/main/images/yellow-heart-beat%402x.png",
+          "src": "#",
           "width": 100,
           "height": 100
         }
@@ -888,7 +888,7 @@ particlesJS('particles-js2',
           "nb_sides": 5
         },
         "image": {
-          "src": "https://raw.githubusercontent.com/e-noch/HEARTS-particles/main/images/pink-heart-beat%402x.png",
+          "src": "#",
           "width": 100,
           "height": 100
         }
@@ -1010,7 +1010,7 @@ particlesJS('particles-js1',
           "nb_sides": 5
         },
         "image": {
-          "src": "https://raw.githubusercontent.com/e-noch/HEARTS-particles/main/images/turquoise-heart-beat%402x.png",
+          "src": "#",
           "width": 100,
           "height": 40
         }
@@ -1142,7 +1142,7 @@ particlesJS('particlesJS',
           "nb_sides": 5
         },
         "image": {
-          "src": "https://raw.githubusercontent.com/e-noch/HEARTS-particles/main/images/pink-heart-beat%402x.png",
+          "src": "#",
           "width": 100,
           "height": 100
         }
