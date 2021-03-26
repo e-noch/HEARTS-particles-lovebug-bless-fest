@@ -27,7 +27,7 @@ particlesJS('particles-js9',
         "value": "#ffffff"
       },
       "shape": {
-        "type": "image",
+        "type": "heart",
         "stroke": {
           "width": 0,
           "color": "#000000"
@@ -150,7 +150,7 @@ particlesJS('particles-js8',
         "value": "#ffffff"
       },
       "shape": {
-        "type": "image",
+        "type": "heart",
         "stroke": {
           "width": 0,
           "color": "#000000"
@@ -271,7 +271,7 @@ particlesJS('particles-js7',
         "value": "#ffffff"
       },
       "shape": {
-        "type": "image",
+        "type": "heart",
         "stroke": {
           "width": 0,
           "color": "#000000"
@@ -392,7 +392,7 @@ particlesJS('particles-js6',
         "value": "#ffffff"
       },
       "shape": {
-        "type": "image",
+        "type": "heart",
         "stroke": {
           "width": 0,
           "color": "#000000"
@@ -513,7 +513,7 @@ particlesJS('particles-js5',
         "value": "#ffffff"
       },
       "shape": {
-        "type": "image",
+        "type": "heart",
         "stroke": {
           "width": 0,
           "color": "#000000"
@@ -1001,7 +1001,7 @@ particlesJS('particles-js1',
         "value": "#ffffff"
       },
       "shape": {
-        "type": "heart",
+        "type": "image",
         "stroke": {
           "width": 0,
           "color": "#000000"
@@ -1133,7 +1133,7 @@ particlesJS('particlesJS',
         "value": "#ffffff"
       },
       "shape": {
-        "type": "heart",
+        "type": "image",
         "stroke": {
           "width": 0,
           "color": "#000000"
