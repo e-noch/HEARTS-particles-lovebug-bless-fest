@@ -36,7 +36,7 @@ particlesJS('particles-js9',
           "nb_sides": 5
         },
         "image": {
-          "src": "https://raw.githubusercontent.com/e-noch/HEARTS-particles-lovebug-bless-fest/main/images/butterfly-particles%402x.png",
+          "src": "https://raw.githubusercontent.com/e-noch/HEARTS-particles-lovebug-bless-fest/main/images/ladybug-particle%402x.png",
           "width": 100,
           "height": 100
         }
